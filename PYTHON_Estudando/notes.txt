@@ -1,4 +1,7 @@
-Objeto:
+PYTHON Anotações!
+
+
+Objeto:     # É 'objeto' não "objetivo"! LÊ DIREITO!
 
     "O propósito de um objeto é conter informações e proporcionar ao programador a capacidade de 
 fazer algo com essas informações."
