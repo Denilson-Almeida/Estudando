@@ -1,0 +1,27 @@
+/cap1/exec3.py (linha 25):
+
+- Explicar o Slicing.
+
+/cap1/exec3.py:
+
+- Caso queira descrever mais, colocar mais comentários é uma boa.
+
+/cap1/exec4.py:
+
+- Mostrar mais exemplos de métodos na prática, e tirar tantos prints (melhora aí!), também colocar 
+descrição sobre.
+
+/cap1/exec5.py:
+
+- Se tiver como, colocar explicações de uso e comentários.
+
+/cap1/exec7.py:
+
+- Colocar algum exemplo de loop while e descrição
+
+/cap1/exec8.py:
+
+- Exemplos de uso para operador de comparação. Explicar melhor o 1 e 0 do booleano.
+
+
+/cap2/exec9.py:

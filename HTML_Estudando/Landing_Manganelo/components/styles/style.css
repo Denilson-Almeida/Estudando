@@ -1,0 +1,274 @@
+/* RESET CSS  */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+li {
+    list-style: none;
+}
+
+
+
+
+/* Classes */
+.espaco-site {
+    margin: 1.3rem 2.9rem;
+}
+
+
+/* CSS */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background: #F1F1F1;
+    border-top: 2px solid #ff5c19;
+
+    width: 100%;
+}
+
+header {
+    display: flex;
+}
+
+.container-logo {
+    height: 110px;
+    width: 215px;
+    background-color: white;
+}
+
+/* Container direito do Header --> */
+.container-header-right {
+    margin-left: 1rem;
+    width: 80.8%;
+}
+
+/* Input do Header */
+.search {
+    width: 40%;
+    border-style: none;
+    font-size: 1rem;
+    border-bottom: 3px solid #ff5c19;
+}
+
+.container-span {
+    display: flex;
+    align-items: center;
+    background: #27ae60;
+    color: white;
+    width: 15%;
+    margin-left: 1rem;
+}
+
+.avatar {
+    height: 35px;
+    width: 35px;
+}
+
+.avatar-name {
+    color: white;
+    margin-left: 0.3rem;
+}
+
+/* Parte de Cima do Header */
+.top-header {
+    display: flex;
+    padding: 10px;
+    background: white;
+
+}
+
+/* Parte de Baixo do Header */
+.container-menu {
+    background: #ff5c19;
+}
+
+.menu {
+    display: flex;
+    padding: 1.2rem;
+}
+
+.menu a {
+    color: white;
+    padding: 1.3rem;
+    margin-right: 2.2rem;
+}
+
+.container-title-week {
+    border-top: 3px solid #ff5c19;
+    width: 98.9%;
+}
+
+.titulo-week {
+    padding: 0.3rem;
+    background: #ff5c19;
+    width: 11%;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.container-slider {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.img-random {
+    height: 173px;
+    width: 157px;
+}
+
+.container-title-read-manga {
+    border-bottom: 1px solid #dedede;
+    color: #1992ea;
+    width: 100%;
+    padding: 0.5rem;
+    font-weight: 500;
+    margin-bottom: 0.8rem;
+}
+
+.container-article {
+    width: 69%;
+    display: flex;
+    flex-wrap: wrap;
+    background: white;
+    margin-top: 1.5rem;
+}
+
+.section-standard {
+    display: flex;
+    width: 49%;
+    line-height: 1.8rem;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.section-standard-img {
+    height: 140px;
+    width: 100px;
+    margin: 1px;
+    border: 1px solid #d7d7d9;
+}
+
+/* LER ISSO ATÉ ENTENDER É MUITO ÚTIL!!!!! */
+.section-standard-reduce-lines {
+    display: -webkit-box;
+    max-width: 300px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.section-standard-content {
+    margin-left: 0.5rem;
+}
+
+.section-standard-content h4 {
+    color: #383838;
+    font-weight: 900;
+}
+
+.section-standard-content p {
+    color: #7b7b7b;
+    line-height: 2rem;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.section-standard-content a {
+    color: #383838;
+}
+
+.organiza-mangas {
+    display: flex;
+}
+
+.aside-container {
+    border-top: 2px solid #903;
+    color: white;
+    width: 30%;
+    margin-top: 1.5rem;
+    margin-left: 0.7rem;
+}
+
+.aside-container-title {
+    padding: 0.5rem 0.9rem;
+    font-size: 1rem;
+    background-color: #903;
+    width: 54%;
+    font-weight: 300;
+    align-items: center;
+}
+
+.aside-menu {
+    width: 100%;
+}
+
+.aside-menu li {
+    padding: 0.5rem 0.4rem;
+}
+
+.aside-menu a {
+    color: white;
+}
+
+.manga1 {
+    background-color: #c0392b;
+}
+
+.manga2 {
+    background-color: #e84c3d;
+}
+
+.manga3 {
+    background-color: #e67e22;
+}
+
+.manga4 {
+    background-color: #f1c40f;
+}
+
+.manga5 {
+    background-color: #2ecc71;
+}
+
+.manga6 {
+    background-color: #27ae60;
+}
+
+.manga7 {
+    background-color: #1abc9c;
+}
+
+.manga8 {
+    background-color: #16a085;
+}
+
+.manga9 {
+    background-color: #3498db;
+}
+
+.manga10 {
+    background-color: #2980b9;
+}
+
+/* LER ISSO ATÉ ENTENDER É MUITO ÚTIL!!!!! */
+.aside-reduce-lines {
+    display: -webkit-box;
+    max-width: 370px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+a:hover {
+    color: rgb(229, 229, 18);
+}

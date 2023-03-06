@@ -1,0 +1,26 @@
+Capitulo 1:
+
+exec1.py - Operadores
+
+exec2.py - Cálculo de Gorjeta com váriaveis
+
+exec3.py - Strings(formas de usar '' e ""), Slicing, Métodos de strings
+
+exec4.py - Listas
+
+exec5.py - Tuplas
+
+exec6.py - Dicionários
+
+exec7.py - Loop While e For
+
+exec8.py - Operadores de Comparação (> , <) e Booleanos
+
+
+Capitulo 2:
+
+exec9.py - Estrutura de Condição(if, elif, else) e Operadores Lógicos (AND, OR, NOT)
+
+exec10.py - Funções
+
+exec11.py - Classes
