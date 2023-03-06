@@ -30,3 +30,8 @@ ex 12_tankgame.py - Execução do jogo de Tank
 ex13.py - Introdução à Importação
 
 ex14.py - Módulos Datetime e Random
+
+
+Capitulo 3:
+
+ex15.py - 
