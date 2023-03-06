@@ -23,4 +23,10 @@ exec9.py - Estrutura de Condição(if, elif, else) e Operadores Lógicos (AND, O
 
 exec10.py - Funções
 
-exec11.py - Classes
+exec11_tank.py - Classe (+ propriedades) e métodos 
+
+ex 12_tankgame.py - Execução do jogo de Tank
+
+ex13.py - Introdução à Importação
+
+ex14.py - Módulos Datetime e Random
