@@ -13,3 +13,9 @@ Parâmetros: são valores que devemos passar (ou não) para determinado objeto.
 Propriedades: são o que descrevem/definem o objeto inicial (o "esqueleto" que todos os objetos adjacentes terão).
 
 Métodos: são as funções (basicamente as "ações" que o objeto pode fazer).
+
+
+Constantes:
+
+    Valores que não se alteram.
+
