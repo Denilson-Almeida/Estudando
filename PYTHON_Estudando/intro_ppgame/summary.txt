@@ -34,4 +34,8 @@ ex14.py - Módulos Datetime e Random
 
 Capitulo 3:
 
-ex15.py - 
+ex15.py - Hello World (Abrindo página)
+
+ex16.py - Mostrando Eventos de movimento do Mouse
+
+ex17.py - 

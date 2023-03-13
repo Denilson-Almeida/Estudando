@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-image: url('/components/imgs/bd_shopify.svg');
+    background-image: url('../imgs/bd_shopify.svg');
     background-repeat: no-repeat;
     background-position: top;
     font-family: Helvetica, Arial, sans-serif;
