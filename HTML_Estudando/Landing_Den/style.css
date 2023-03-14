@@ -1,3 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 body {
     background-color: orange;
+}
+
+main {
+    width: 100%;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+
+    background-color: #f1f1f1;
+    padding: 2rem;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    padding: 2rem;
+}
+
+.container-space {
+    height: 100vh;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.container-conteudo {
+    width: 30%;
+    line-height: 2rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
+
+.container-conteudo h2 {
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 3rem;
+    margin-bottom: 1rem;
+}
+
+.container-conteudo p {
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+
+.gray {
+    background-color: #f1f1f1;
+}
+
+.dark {
+    background-color: #cecece;
+}
+
+.red {
+    background-color: crimson;
+}
+
+.blue {
+    background-color: #18a7ac;
+    flex-direction: column;
+}
+
+.blue span img {
+    width: 15rem;
+}
+
+
+
+.bd_moka-vampire_1 {
+    max-width: 35rem;
+    max-height: 50rem;
+    border: 1px solid black;
+}
+
+
+.imagine {
+    width: 35%;
+    text-align: center;
+}
+
+.imagine h3 {
+    font-size: 2rem;
+}
+
+.footer-redes-sociais {
+    display: flex;
+    line-height: 2rem;
+    padding: 1rem;
+    list-style: none;
+}
+
+.footer-options {
+    list-style: none;
+}
+
+.footer-options p {
+    color: blue;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.footer-options li a {
+    line-height: 2rem;
+}
+
+.footer-organiza {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid black;
+    margin: 5% 2%;
+    padding-bottom: 2rem;
 }
